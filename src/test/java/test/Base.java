@@ -33,6 +33,7 @@ class Base {
         int min = 1;
         int max = 10;
         int random = new java.util.Random().nextInt((max - min) + 1) + min;
+        System.out.println(">>>>> " + random);
         if (random % 2 == 0) {
            fail("oops"); 
         }
