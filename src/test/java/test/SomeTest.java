@@ -38,24 +38,6 @@ public class SomeTest extends Base {
         run();
     }
 
-    @Test public void test3o() {
-        System.out.println("3");
-        run();
-    }
-
-    @Test public void test4o() {
-        System.out.println("4");
-        run();
-    }
-
-    @Test public void test5o() {
-        System.out.println("5");
-        run();
-    }
-
-    @Test public void test6o() {
-        System.out.println("6");
-        run();
-    }
+    
 
 }
