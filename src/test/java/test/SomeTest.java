@@ -30,13 +30,13 @@ public class SomeTest extends Base {
 
     
 
-    @Test public void test3o() {
-        System.out.println("3");
+    @Test public void test5o() {
+        System.out.println("5");
         run();
     }
 
-    @Test public void test4o() {
-        System.out.println("4");
+    @Test public void test6o() {
+        System.out.println("6);
         run();
     }
 
